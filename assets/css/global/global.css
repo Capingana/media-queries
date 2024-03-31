@@ -1,0 +1,16 @@
+@import url("./variables.css");
+@import url("./fonts.css");
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+   background-color: var(--corpadrao);
+    font-family: var(--letraPadrao);
+    background: url("../../img/background-home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+   
+}
